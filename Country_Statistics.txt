@@ -1,0 +1,5 @@
+ Create an Interactive Dashboard on the PowerBI desktop.
+• Country Statistics:- In the given dataset using Power BI desktop create
+deferent interactive dashboard such as the population of country,
+surface area, sex ratio, GDP , employment and unemployment, agriculture
+etc. which gives the overall overview of the any Country.
